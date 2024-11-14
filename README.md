@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hafsa Tariq</h1>
+<h1 align="center">Hafsa Tariq</h1>
 <h3 align="center">Passionate programmer skilled in Machine Learning and Generative AI, transforming ideas into intelligent solutions</h3>
 
 - 🌱 I’m currently learning **Agentic frameworks**
