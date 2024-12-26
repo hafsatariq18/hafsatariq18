@@ -1,5 +1,5 @@
 <h1 align="center">Hafsa Tariq</h1>
-<h4 align="center">Passionate programmer skilled in Machine Learning and Generative AI, transforming ideas into intelligent solutions</h4>
+<h4 align="center">Passionate programmer skilled in Machine Learning and Generative AI, Transforming ideas into intelligent solutions</h4>
 
 - 🌱 I’m currently learning **Agentic frameworks**
 
